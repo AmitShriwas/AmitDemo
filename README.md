@@ -1,3 +1,3 @@
 # AmitDemo
 For demo and testing purpose 
-Author Amit Shriwas
+Author name Amit Kumar Shriwas
